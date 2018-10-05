@@ -1,0 +1,7 @@
+F:\BIZRUNTIME\Practice\delegates\DelagatesExample\DelagatesExample\bin\Debug\DelagatesExample.exe.config
+F:\BIZRUNTIME\Practice\delegates\DelagatesExample\DelagatesExample\bin\Debug\DelagatesExample.exe
+F:\BIZRUNTIME\Practice\delegates\DelagatesExample\DelagatesExample\bin\Debug\DelagatesExample.pdb
+F:\BIZRUNTIME\Practice\delegates\DelagatesExample\DelagatesExample\obj\Debug\DelagatesExample.csprojAssemblyReference.cache
+F:\BIZRUNTIME\Practice\delegates\DelagatesExample\DelagatesExample\obj\Debug\DelagatesExample.csproj.CoreCompileInputs.cache
+F:\BIZRUNTIME\Practice\delegates\DelagatesExample\DelagatesExample\obj\Debug\DelagatesExample.exe
+F:\BIZRUNTIME\Practice\delegates\DelagatesExample\DelagatesExample\obj\Debug\DelagatesExample.pdb
